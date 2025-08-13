@@ -5,7 +5,7 @@ import java.util.HashMap;
 
 public class ExemploHashMap {
     public static void main(String[] args) {
-        HashMap<String, String> mapa = new HashMap<>();
+        HashMap<String, String> mapa = new HashMap<String,String>();
         do{
             try{
                 String sigla, estado;
